@@ -21,7 +21,7 @@ void PhongMaterial::setDiffuse(vec4 color) {
 }
 
 void PhongMaterial::setSpecular(vec4 color) {
-	this->specular = color;
+	this-> specular = color;
 }
 
 void PhongMaterial::setEmission(vec4 color) {
